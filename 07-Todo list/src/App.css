@@ -1,0 +1,22 @@
+.App {
+  margin-top: 25px;
+}
+
+.todo {
+  min-width: 205px;
+}
+
+.isdone {
+  min-width: 200px;
+}
+
+.input {
+  margin: auto;
+  width: 420px;
+}
+
+button {
+  border: none;
+  background-color: white;
+}
+
