@@ -14,7 +14,7 @@
 npm install react-router-dom@6
 ```
 
-## thanks a lot to great instructor John smilga
+## thanks a lot to great instructor John Smilga
 
 - www.johnsmilga.com
 - coding addict on youtube
